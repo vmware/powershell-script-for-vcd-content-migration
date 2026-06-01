@@ -1,0 +1,24 @@
+{
+    "common": {
+        "localContentPath": "F:\\ISO"
+    },
+    "vcd": {
+        "vcdFqdn": "vcd01a.example.com",
+        "vcdUser": "administrator",
+        "defaultOrg": "System",
+        "orgName": "org1-for-media",
+        "catalog": {
+           "name": "catalog-1"
+        }
+    },
+    "vcfa": {
+        "vcfaFqdn": "auto01.example.com",
+        "vcfaUser": "admin",
+        "vCenterFqdn": "vcenter02.example.com",
+        "vCenterUser": "administrator@w01.local",
+        "orgName": "org-01",
+        "contentLibrary": {
+            "name": "provider-cl"
+        }
+    }
+}
